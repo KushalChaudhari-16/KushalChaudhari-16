@@ -1,33 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=78A058&height=300&section=header&text=KUSHAL%20CHAUDHARI&fontSize=70&fontAlign=50&fontColor=ffffff&desc=SERVER%20ADMIN%20%7C%20FULL%20STACK%20%7C%20AI%20ENGINEER&descSize=25&descAlign=50&animation=fadeIn" width="100%">
+  <img src="https://github.com/katzinal/katzinal/blob/main/assets/minecraft-banner.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;">
+  
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=1000&color=55FF55&center=true&vCenter=true&width=600&lines=PLAYER:+KushalChaudhari-16;BIOME:+Night+Snow+(Pune,+India);CLASS:+Full+Stack+%2F+AI+Engineer;STATUS:+Building+RAG+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HP-❤❤❤❤❤❤❤❤❤❤-d00000?style=flat&labelColor=2d2d2d" alt="Health">
-  <img src="https://img.shields.io/badge/FOOD-🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗-orange?style=flat&labelColor=2d2d2d" alt="Hunger">
-  <br>
-  <img src="https://user-images.githubusercontent.com/10371630/103667746-8e5c3e00-4f62-11eb-980b-7e61f496791e.png" width="50%" height="8px">
-  <br>
-  <sub><i>Level 24 (Experience in AI, Spring Boot, & RAG)</i></sub>
+  <img src="https://img.shields.io/badge/HP-❤❤❤❤❤❤❤❤❤❤-d00000?style=flat&labelColor=1a1a1a" alt="Health">
+  <img src="https://img.shields.io/badge/HUNGER-🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗-orange?style=flat&labelColor=1a1a1a" alt="Hunger">
+  <img src="https://img.shields.io/badge/XP-Level%2024-89e051?style=flat&labelColor=1a1a1a&logo=github" alt="XP">
 </div>
 
 <br>
 
-<table width="100%" style="border: 2px solid #5d4037; background-color: #1a1a1a; color: #ffffff;">
+<table width="100%" style="border: 2px solid #373737; background-color: #0d1117; color: #ffffff;">
   <tr>
-    <td width="20%" align="center">
-       <img src="https://api.mineatar.io/body/full/Steve?scale=8" height="200">
+    <td width="15%" align="center" valign="top">
+       <img src="https://api.mineatar.io/body/full/Steve?scale=6" height="180" style="margin-top: 10px;">
     </td>
-    <td width="80%">
-       <code><span style="color: #55FF55">[Server]</span> Player <b>KushalChaudhari-16</b> has joined the game.</code><br>
-       <code><span style="color: #55FF55">[Server]</span> Biome Detected: <b>Pune, India</b></code><br>
+    <td width="85%" valign="center">
+       <code><span style="color: #55FF55">[Server]</span> <b>Welcome to the server, Kushal!</b></code><br>
        <br>
-       <code><span style="color: #FFAA00">[Kushal]</span></code> <span style="color: #ffffff">I am a Full Stack Developer & AI Enthusiast. I craft scalable backends with <b>Spring Boot</b> and build intelligent agents using <b>RAG & Vector DBs</b>.</span><br>
+       <code><span style="color: #FFAA00">&lt;Kushal&gt;</span></code> I am a <b>Full Stack & AI Developer</b>.<br>
+       <code><span style="color: #FFAA00">&lt;Kushal&gt;</span></code> I specialize in <b>Java Spring Boot</b>, <b>Python AI/ML</b>, and <b>RAG Architectures</b>.<br>
+       <code><span style="color: #FFAA00">&lt;Kushal&gt;</span></code> Currently crafting: <i>Vector DB Agents & Financial Analysis Systems.</i><br>
        <br>
-       <code><span style="color: #FFAA00">[Kushal]</span></code> <span style="color: #ffffff">/gamemode creative (Building Solutions)</span><br>
-       <br>
-       <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
-       <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Send_Message-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
+       <code><span style="color: #AAAAAA">/connect</span></code> 
+       <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+       <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
 </table>
@@ -35,123 +38,145 @@
 <br>
 
 <div align="center">
-  <h2>🎒 PLAYER INVENTORY (Tech Stack)</h2>
-  
-  <table style="background-color: #C6C6C6; border: 4px solid #373737; border-radius: 5px;">
+  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f3/Chest_JE2_BE2.png" width="40">
+  <br>
+  <b><font size="5">OPENING INVENTORY...</font></b>
+</div>
+
+<div align="center">
+  <table style="background-color: #C6C6C6; border: 4px solid #373737; border-spacing: 2px;">
+    <tr>
+      <td colspan="8" align="center" style="background-color: #8B8B8B; padding: 5px;">
+        <b><font color="white">🛠️ HOTBAR: LANGUAGES & CORE</font></b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=java" width="40"><br>Java
+      </td>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=python" width="40"><br>Python
+      </td>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=js" width="40"><br>JS
+      </td>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP
+      </td>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=spring" width="40"><br>Spring
+      </td>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=react" width="40"><br>React
+      </td>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=express" width="40"><br>Express
+      </td>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=android" width="40"><br>Android
+      </td>
+    </tr>
     
     <tr>
-      <td colspan="8" align="center" style="background-color: #8B8B8B; color: white;"><b>🛠️ HOTBAR: LANGUAGES & FRAMEWORKS</b></td>
-    </tr>
-    <tr>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=java" width="45"><br>
-        <code style="color:white; font-size:10px;">Java</code>
-      </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=python" width="45"><br>
-        <code style="color:white; font-size:10px;">Python</code>
-      </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=spring" width="45"><br>
-        <code style="color:white; font-size:10px;">Spring</code>
-      </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=react" width="45"><br>
-        <code style="color:white; font-size:10px;">React</code>
-      </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=js" width="45"><br>
-        <code style="color:white; font-size:10px;">JS</code>
-      </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=php" width="45"><br>
-        <code style="color:white; font-size:10px;">PHP</code>
-      </td>
-       <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=express" width="45"><br>
-        <code style="color:white; font-size:10px;">Express</code>
-      </td>
-       <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=android" width="45"><br>
-        <code style="color:white; font-size:10px;">Android</code>
+      <td colspan="8" align="center" style="background-color: #8B8B8B; padding: 5px;">
+        <b><font color="white">📦 CHEST: DATA & AI</font></b>
       </td>
     </tr>
-
     <tr>
-      <td colspan="8" align="center" style="background-color: #8B8B8B; color: white;"><b>📦 STORAGE: DATABASES & CLOUD</b></td>
-    </tr>
-    <tr>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45"><br>
-        <code style="color:white; font-size:10px;">MySQL</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40"><br>MySQL
       </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45"><br>
-        <code style="color:white; font-size:10px;">Postgres</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40"><br>Postgres
       </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>
-        <code style="color:white; font-size:10px;">Mongo</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>Mongo
       </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=firebase" width="45"><br>
-        <code style="color:white; font-size:10px;">Firebase</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase
       </td>
-       <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://img.icons8.com/fluency/48/database.png" width="45"><br>
-        <code style="color:white; font-size:10px;">VectorDB</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://img.icons8.com/fluency/48/database.png" width="40"><br>Vector
       </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="45"><br>
-        <code style="color:white; font-size:10px;">AI/ML</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="40"><br>AI/ML
       </td>
-       <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://img.icons8.com/fluency/48/brain.png" width="45"><br>
-        <code style="color:white; font-size:10px;">RAG</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://img.icons8.com/fluency/48/brain.png" width="40"><br>RAG
       </td>
-      <td align="center" style="border: 2px solid #373737; padding: 10px; background-color: #8B8B8B;">
-        <img src="https://skillicons.dev/icons?i=git" width="45"><br>
-        <code style="color:white; font-size:10px;">Git</code>
+      <td align="center" style="background-color: #8B8B8B; border: 2px solid #373737; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=git" width="40"><br>Git
       </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <table width="60%">
-    <tr>
-        <td align="center"><img src="https://minecraft.wiki/images/Potion_of_Leaping_JE2_BE2.png" width="30"> <br> <b>Problem Solving</b> <br> <span style="color:green">+50% Logic</span></td>
-        <td align="center"><img src="https://minecraft.wiki/images/Potion_of_Healing_JE2_BE2.png" width="30"> <br> <b>Team Work</b> <br> <span style="color:green">+20% Synergy</span></td>
-        <td align="center"><img src="https://minecraft.wiki/images/Potion_of_Swiftness_JE2_BE2.png" width="30"> <br> <b>Communication</b> <br> <span style="color:green">+30% Clarity</span></td>
     </tr>
   </table>
 </div>
 
 <br>
 
-<h2>📜 ACTIVE QUESTS (Projects)</h2>
+<div align="center">
+  <table cellspacing="10">
+    <tr>
+      <td align="center">
+        <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f1/Potion_of_Leaping_JE2_BE2.png" width="40"><br>
+        <b>Problem Solving</b><br><font size="2" color="green">+50% Logic</font>
+      </td>
+      <td align="center">
+        <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Potion_of_Healing_JE2_BE2.png" width="40"><br>
+        <b>Collaboration</b><br><font size="2" color="green">+30% Teamwork</font>
+      </td>
+      <td align="center">
+        <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4c/Potion_of_Swiftness_JE2_BE2.png" width="40"><br>
+        <b>Communication</b><br><font size="2" color="green">+20% Speed</font>
+      </td>
+    </tr>
+  </table>
+</div>
 
-| Rank | Quest Name | Mission Briefing (Description) | Loot (Tech) |
+<br>
+
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/52/Enchanted_Book.gif" width="50">
+  <br>
+  <b><font size="5">ACTIVE QUEST LOG</font></b>
+</div>
+
+<br>
+
+| ⚔️ Rank | 📜 Quest Name | 🗺️ Mission Briefing | 💎 Loot (Tech) |
 | :---: | :--- | :--- | :--- |
-| 🛡️ | [**CredRisk AI**](https://github.com/KushalChaudhari-16/credrisk) | **Status: Completed**<br>Constructed a fusion ML system to predict credit risk. Provides real-time explainable insights. | `Python` `Fusion ML` `React` |
-| 💎 | [**Medical Denoising**](https://github.com/KushalChaudhari-16/Medical-Image-Denoising-Using-Diffusion) | **Status: Completed**<br>Adaptive X-Ray denoising using Diffusion models (NAFNet). Restores image clarity. | `PyTorch` `Diffusion` `CV` |
-| 🔮 | [**Financial RAG**](https://github.com/KushalChaudhari-16/Multi-Document-Financial-Analysis-System-with-Temporal-RAG) | **Status: In Progress**<br>A "Memory" system for finance. Analyzes multi-documents with temporal awareness. | `RAG` `Vector DB` `LLM` |
-| ⚔️ | [**Freelance Hub**](https://github.com/KushalChaudhari-16/Full-Stack-Freelance-Management-Platform) | **Status: Completed**<br>Full-stack hiring platform for connecting clients with professionals. | `Spring` `React` `MySQL` |
+| **Legendary** | [**CredRisk AI**](https://github.com/KushalChaudhari-16/credrisk) | **Status: Boss Defeated (Done)**<br>Fusion ML system for Credit Risk analysis. Explainable AI for real-time predictions. | `Python` `Fusion ML` `React` |
+| **Epic** | [**Medical Denoising**](https://github.com/KushalChaudhari-16/Medical-Image-Denoising-Using-Diffusion) | **Status: Completed**<br>Adaptive X-Ray denoising using Diffusion models (NAFNet). | `PyTorch` `Diffusion` `CV` |
+| **Rare** | [**Financial RAG**](https://github.com/KushalChaudhari-16/Multi-Document-Financial-Analysis-System-with-Temporal-RAG) | **Status: Exploring...**<br>Financial Analysis with Temporal RAG & Vector Memory. | `RAG` `Vector DB` `LLM` |
+| **Common** | [**Freelance Hub**](https://github.com/KushalChaudhari-16/Full-Stack-Freelance-Management-Platform) | **Status: Village Built**<br>Complete Full-Stack hiring ecosystem. | `Spring` `React` `MySQL` |
 
 <br>
 
 <div align="center">
-  <h2>📊 SERVER STATISTICS</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=KushalChaudhari-16&show_icons=true&theme=dark&hide_border=false&bg_color=1a1a1a&title_color=55FF55&icon_color=55FF55&text_color=ffffff&border_color=5d4037" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushalChaudhari-16&theme=dark&hide_border=false&background=1a1a1a&ring=55FF55&fire=55FF55&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=55FF55&sideLabels=55FF55&border=5d4037" height="150" />
+  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2c/Oak_Sign_JE2_BE2.png" width="40">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalChaudhari-16&layout=compact&theme=dark&hide_border=false&bg_color=1a1a1a&title_color=55FF55&text_color=ffffff&langs_count=8&border_color=5d4037" height="150" />
+  <b><font size="5">SERVER STATS</font></b>
+  <br><br>
+  
+  <p align="center">
+    <a href="https://github.com/KushalChaudhari-16">
+      <img src="https://github-readme-stats.vercel.app/api?username=KushalChaudhari-16&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&title_color=55FF55&icon_color=55FF55&text_color=ffffff&border_color=373737" height="150" />
+    </a>
+    <a href="https://github.com/KushalChaudhari-16">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushalChaudhari-16&theme=dark&hide_border=false&background=0d1117&ring=55FF55&fire=55FF55&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=55FF55&sideLabels=55FF55&border=373737" height="150" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/KushalChaudhari-16">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalChaudhari-16&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=55FF55&text_color=ffffff&langs_count=8&border_color=373737" height="150" />
+    </a>
+  </p>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Vbyp6W5Uj12pDcd6Yj/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/Vbyp6W5Uj12pDcd6Yj/giphy.gif" width="60">
   <br>
-  <p><i>"Don't dig straight down."</i></p>
+  <p><i>"Creeper? Aww man..."</i></p>
 </div>
